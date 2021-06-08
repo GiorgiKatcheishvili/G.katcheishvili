@@ -1,0 +1,76 @@
+/* >>>>> MU TAGS <<<<< */
+.dib{
+    display:inline-block;
+}
+.vam{
+    vertical-align: middle;
+}
+body{
+    background-color: #F6F8F9;
+    width: 1440px;
+    height: 1737px;
+}
+
+
+/* >>>>> HEADER  <<<<< */
+.header{
+    position: fixed;
+    top: 0;
+    width: 1440px;
+    height: 50px;
+    margin: 1% 0 0 20%;
+    z-index: 5;
+}
+.logo{
+    color: #FA6980;
+    padding: 18px 0px 17px 0px;
+    font-family: 'NanumGothicExtraBold';
+}
+.hed1{
+    margin:0 27px 0 150px;
+}
+.shavi{
+    color: #343638;
+    font-family: 'NanumGothicExtraBold';
+}
+.hed2{
+    margin-right: 22px;
+}
+.nacris{
+    color: #343638;
+    font-family: 'NanumGothic';
+}
+
+/* >>>>>>>>>>>SECTIONS<<<<<<<< */
+.sakheli{
+    margin-bottom: 40px;
+    font-size: 24px;
+    font-family: 'NanumGothicExtraBold';
+}
+.mainframe{
+    width: 1160px;
+    height: 410px;
+    margin: 75px 140px 0 140px;
+}
+.imgdiv{
+    width: 360px;
+    height: 350px;
+    margin-right: 20px;
+    background-color: white;
+    position: relative;
+}
+.imgdiv p{
+    position: absolute;
+    top: 28px;
+    left: 40px;
+    color: white;
+    font-size: 16px;
+    font-family: 'NanumGothicExtraBold';
+}
+.imgdivp {
+    width: 280px;
+    height: 38px;
+    font-size: 13px;
+    color: gray;
+    padding: 66px 40px 66px 40px;
+}
