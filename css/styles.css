@@ -7,8 +7,6 @@
 }
 body{
     background-color: #F6F8F9;
-    width: 1440px;
-    height: 1737px;
 }
 
 
@@ -72,5 +70,93 @@ body{
     height: 38px;
     font-size: 13px;
     color: gray;
-    padding: 66px 40px 66px 40px;
+    padding: 66px 0px 25px 0px;
+    margin: 0 auto;
+}
+.imgdivp1{
+    width: 69px;
+    height: 16px;
+    font-size: 13px;
+    color: gray;
+    margin: 25px 0px 40px 40px;
+}
+.clock{
+    margin-right: 10px;
+}
+.sect2h{
+    width: 770px;
+    height: 20px;
+    margin: 59px 0 0 140px;
+    font-family: 'NanumGothicExtraBold';
+    font-size: 24px;
+}
+.wholebox{
+    width: 1190px;
+    height: 949px;
+    margin-left: 140px;
+}
+.sect2a{
+    width: 760px;
+    height: 900px;
+    margin: 40px 0 0 0px;
+}
+.sect2h3{
+    width: 360px;
+    height: 896px;
+    margin-left: 40px;
+}
+.img1{
+    margin-bottom: 75px;
+}
+.img12{
+    margin-bottom: 40px;
+}
+
+/* >>>>>>>>>FOOTER<<<<<<<<<< */
+.gray{
+    height: 200px;
+    background-color: #707070;
+    margin-top: 40px;
+}
+.footerdiv{
+    width: 486.09px;
+    height: 84px;
+    padding: 56px 0 60px 100px;
+}
+.footerH{
+    font-size: 13px;
+    color: #CBD0D3;
+    padding: 50px 0 129px 100px;
+    font-family: 'NanumGothicExtraBold';
+    vertical-align: top;
+}
+.futul{
+    padding-left: 40px;
+}
+.space{
+    margin-bottom: 8px;
+}
+.space1{
+    font-size: 13px;
+    color: #CBD0D3;
+}
+.littlenick{
+    width: 350px;
+    height: 9px;
+    padding: 62px 0 129px 50px;
+    vertical-align: top;
+}
+.littlenick h2{
+    font-size: 13px;
+    color: #CBD0D3;
+}
+.littlenick1{
+    width: 160px;
+    height: 16px;
+    vertical-align: middle;
+    margin-bottom: 128px;
+}
+.space2{
+        margin-left: 21px;
+
 }
